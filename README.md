@@ -7,3 +7,8 @@ Some description
 
 
 watch this video
+
+
+w## local dev
+
+1. open index.html 
